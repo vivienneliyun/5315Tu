@@ -1,123 +1,94 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <name>James Lion</name>
+      <gender>Male</gender>
+      <phone_number>206-733-8827</phone_number>
+      <city>Seattle</city>
+      <hobby>Music</hobby>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <name>Ben Jordan</name>
+      <gender>Male</gender>
+      <phone_number>333-829-3728</phone_number>
+      <city>Los Angeles</city>
+      <hobby>Basketball</hobby>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <name>Alice Cohen</name>
+      <gender>Female</gender>
+      <phone_number>926-372-3648</phone_number>
+      <city>Miami</city>
+      <hobby>Cooking</hobby>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <name>Briam West</name>
+      <gender>Male</gender>
+      <phone_number>7384-6283</phone_number>
+      <city>London</city>
+      <hobby>Travelling</hobby>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <name>Cecilia Jackson</name>
+      <gender>Female</gender>
+      <phone_number>7382-9364</phone_number>
+      <city>York</city>
+      <hobby>Reading</hobby>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <name>Shelly Li</name>
+      <gender>Female</gender>
+      <phone_number>134-4442-3459</phone_number>
+      <city>Beijing</city>
+      <hobby>Shopping</hobby>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <name>Kelcey Cox</name>
+      <gender>Female</gender>
+      <phone_number>7329-3628</phone_number>
+      <city>Edinburgh</city>
+      <hobby>Coding</hobby>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <name>Harry Porter</name>
+      <gender>Male</gender>
+      <phone_number>876-534-2237</phone_number>
+      <city>Boston</city>
+      <hobby>Dreaming</hobby>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <name>Colin Lee</name>
+      <gender>Male</gender>
+      <phone_number>542-673-8829</phone_number>
+      <city>San Francisco</city>
+      <hobby>Coding</hobby>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <name>Meiyong Zhang</name>
+      <gender>Male</gender>
+      <phone_number>528-930-2237</phone_number>
+      <city>Sillicon Valley</city>
+      <hobby>Gaming</hobby>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <name>Danny Paul</name>
+      <gender>Male</gender>
+      <phone_number>158-9203-7483</phone_number>
+      <city>Shanghai</city>
+      <hobby>Clubbing</hobby>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <name>Primrose Davidson</name>
+      <gender>Female</gender>
+      <phone_number>672-993-2839</phone_number>
+      <city>Dallas</city>
+      <hobby>Singing</hobby>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
-    </data>
-    <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
-    </data>
-    <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <name>Sam Parker</name>
+      <gender>Male</gender>
+      <phone_number>382-993-8263</phone_number>
+      <city>Las Vegas</city>
+      <hobby>Gambling</hobby>
     </data>
   </employees>
